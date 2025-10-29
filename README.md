@@ -1,6 +1,5 @@
 # BSOA301 - Simple Office Event Website Project (Act 2)
-git echo “# BSOA_201_LERIO
-_Act2” >> README.md
+git echo “# WordPressTEST” >> README.md
 
 git init
 git commit -m “first commit”
