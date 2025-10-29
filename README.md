@@ -1,5 +1,5 @@
 # BSOA301 - Simple Office Event Website Project (Act 2)
-git echo “# WordPressTEST” >> README.md
+git echo “# BSOA301_JDOE_Act2” >> README.md
 
 git init
 git commit -m “first commit”
